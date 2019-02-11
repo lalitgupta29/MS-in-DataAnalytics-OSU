@@ -7,4 +7,4 @@ accessed vis http call.
 The end objective is to identify the top 10 states in terms of average revenue. In order to do this, data is pulled and parsed 
 from the web and put into json format. Then moved from json to sqlite database and then is queried from the database. 
 
-PS: Because I was running this on my local computer, I was not abel to pull all the data. So I restricted my calls to 30K.
+PS: Because I was running this on my local computer, I was not able to pull all the data. So I restricted my calls to 30K.
